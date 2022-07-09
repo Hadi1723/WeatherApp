@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fareheit"
+        android:title="Fareheit" />
+    <item
+        android:id="@+id/celcius"
+        android:title="Celcius" />
+    <item
+        android:id="@+id/moreInfo"
+        android:icon="@drawable/istockphoto_1252332917_612x612"
+        android:title="Item"
+        app:showAsAction="always" />
+</menu>
